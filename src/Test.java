@@ -1,8 +1,8 @@
 public class Test {
 
-    public String name;
+    public int name;
 
-    public Test(String name) {
+    public Test(int name) {
         this.name = name;
     }
 }
