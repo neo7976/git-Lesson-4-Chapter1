@@ -26,6 +26,6 @@ public class NoGit {
 
         System.out.println("Тест прошел успешно");
 
-
+        System.out.println("Пробуем еще прикольные изменения");
     }
 }
