@@ -24,9 +24,7 @@ public class NoGit {
     public static void main(String[] args) {
         System.out.println("Тестируем новый класс");
 
-        System.out.println("Корректируем");
-
-
+        System.out.println("Тест прошел успешно");
 
         System.out.println("Пробуем еще прикольные изменения");
     }
