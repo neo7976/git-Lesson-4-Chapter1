@@ -28,6 +28,6 @@ public class NoGit {
 
 
 
-
+        System.out.println("Пробуем еще прикольные изменения");
     }
 }
